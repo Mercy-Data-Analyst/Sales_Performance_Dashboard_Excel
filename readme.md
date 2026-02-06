@@ -56,6 +56,8 @@ The goal of this dashboard is to support quick decision-making by transforming r
 ---
 
 ## Dataset
+
+The dataset used for this project is available here:
 [Sales_Dataset](https://github.com/Mercy-Data-Analyst/Sales_Performance_Dashboard_Excel/blob/main/Sales_Dataset.csv)
 
 ---
@@ -99,6 +101,7 @@ Overall, this dashboard demontsrates my ability to:
 ## Contact
 **Mercy Omemgboji**
 Data Analyst/Business Analyst
+
 
 
 
