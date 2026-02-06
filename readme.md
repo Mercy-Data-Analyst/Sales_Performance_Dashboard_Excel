@@ -61,7 +61,7 @@ The goal of this dashboard is to support quick decision-making by transforming r
 ---
 
 ## Dashboard Preview
-![]()
+![](https://github.com/Mercy-Data-Analyst/Sales_Performance_Dashboard_Excel/blob/main/sales_performance_%20dashboard.jpg)
 
 ---
 
@@ -99,5 +99,6 @@ Overall, this dashboard demontsrates my ability to:
 ## Contact
 **Mercy Omemgboji**
 Data Analyst/Business Analyst
+
 
 
