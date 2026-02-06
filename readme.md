@@ -55,13 +55,13 @@ The goal of this dashboard is to support quick decision-making by transforming r
 
 ---
 
-## Dashboard Preview
-![Sales_Performance_Dashboard](image/sales_performance_%20dashboard.jpg)
+## Dataset
+[]()
 
 ---
 
-## Project Link
-[View project repository](https://github.com/Mercy-Data-Analyst/Sales_Performance_Dashboard_Excel.git)
+## Dashboard Preview
+![]()
 
 ---
 
@@ -99,4 +99,5 @@ Overall, this dashboard demontsrates my ability to:
 ## Contact
 **Mercy Omemgboji**
 Data Analyst/Business Analyst
+
 
