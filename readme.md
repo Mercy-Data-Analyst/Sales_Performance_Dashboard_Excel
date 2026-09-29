@@ -56,7 +56,7 @@ The goal of this dashboard is to support quick decision-making by transforming r
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard](Screenshot/sales_performance_dashboard.png)
+![Screenshot/sales_performance_dashboard.png](https://github.com/Mercy-Data-Analyst/Sales_Performance_Dashboard_Excel/blob/main/Screenshot/sales_performance_dasboard.png?raw=true)
 
 ---
 
